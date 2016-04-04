@@ -20,17 +20,19 @@
   margin-left: 90px;
 }
 .logo{
-	width: 35%;
+	width: 23%;
 	height: 100%;
 }
 .text-vertical{
 	color: #14191C;
 }
 .titulo {
-color: #FFFFFB;
-text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
--webkit-text-fill-color: #4C85A3;
+
+-webkit-text-fill-color: #FFF8DC;
 -webkit-text-stroke: 1px black;
 width: auto;
 height: auto;
+}
+.minilogo {
+	height: 10%;
 }
